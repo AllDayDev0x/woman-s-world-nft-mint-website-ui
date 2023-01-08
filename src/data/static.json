@@ -1,0 +1,540 @@
+[
+    {
+        "header":{
+            "logo":"./img/core-img/logo.png",
+            "MenuInfo":[
+                {
+                    "path":"/",
+                    "nameLink":"Home"
+                },
+                {
+                    "path":"/about-us",
+                    "nameLink":"About Us"
+                },
+                {
+                    "path":"/faq",
+                    "nameLink":"FAQ"
+                },
+                {
+                    "path":"/roadmap",
+                    "nameLink":"Roadmap"
+                },
+                {
+                    "path":"/mint",
+                    "nameLink":"Mint"
+                }
+            ]
+        },
+        "footer":{
+            "logo":"./img/core-img/logo.jpg",
+            "title":"CV Builder",
+            "text":"Womans world is a subsidiary of NFT Developments. NFT Developments is a WEB 3 development company based in New Zealand.",
+            "socials":[
+                {"ico":"fa fa-facebook", "link": "https://m.facebook.com/NFTDevelopments/"},
+                {"ico":"fa fa-twitter", "link": "https://twitter.com/nftdevelopments/"},
+                {"ico":"fa fa-instagram", "link": "https://www.instagram.com/nftdevelopments/"}
+            ],
+            "NAVIGATE":[
+                {"text":"Advertisers"},
+                {"text":"Developers"},
+                {"text":"Resources"},
+                {"text":"Company"},
+                {"text":"Connect"}
+            ],
+            "PRIVACY":[
+                {"text":"Advertiser Agreement"},
+                {"text":"Acceptable Use Policy"},
+                {"text":"Privacy Policy"},
+                {"text":"Technology Privacy"},
+                {"text":"Developer Agreement"}
+            ],
+            "CONTACT":[
+                {"text":"Mailing Address:xx00 E. Union Ave"},
+                {"text":"Suite 1100. Denver, CO 80237"},
+                {"text":"+999 90932 627"},
+                {"text":"support@yourdomain.com"}
+            ]
+        },
+        "home":{
+            "sectionHeading":{
+                "img":"img/svg/section-icon-1.svg",
+                "title":"Choose a demo",
+                "text":"Our Template will be a perfect platform for presenting your NFT Collection, Minting Websites. This Landing Page comes in great and clean design"
+            },
+            "demos":[
+                {
+                    "img":"img/demos/demo-1.png",
+                    "title":"View demo ",
+                    "path":"/Home"
+                },
+                {
+                    "img":"img/demos/demo-2.png",
+                    "title":"View demo ",
+                    "path":"/HomeDemo2"
+                },
+                {
+                    "img":"img/demos/demo-3.png",
+                    "title":"View demo ",
+                    "path":"/HomeDemo3"
+                },
+                {
+                    "img":"img/demos/demo-4.png",
+                    "addInnerPages":true,
+                    "title":"View demo ",
+                    "path":"/HomeDemo4"
+                },
+                {
+                    "img":"img/demos/demo-5.png",
+                    "addInnerPages":true,
+                    "title":"View demo ",
+                    "path":"/HomeDemo2"
+                },
+                {
+                    "img":"img/demos/demo-6.png",
+                    "addInnerPages":true,
+                    "title":"View demo ",
+                    "path":"/HomeDemo3"
+                }
+            ]
+        },
+        "Home":{
+            "WelcomeArea":{
+                "title":"Woman’s world NFT Collection Created and Crafted With Love",
+                "specialHead":"300 / 2222 NFT Minted",
+                "text":"She needed a hero. So that’s what she became",
+                "btnUp":"ww opensea",
+                "btnDown":"mint here"
+            },
+            "AboutOurCollectionImg":"img/core-img/about.png"
+        },
+        "OurBrands":[
+            {
+                "img":"img/icons/globe.png",
+                "title":"Never apologize for being a powerful woman."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"If a girl wants to be a legend, she should be one."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"They tried to burn her not knowing she was a flame."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"She’s proof that you can walk through hell and still be an angel."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"Being a strong woman is very important to me."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"Here’s to strong women. May we know them."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"She needed a hero. So that’s what she became."
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"The best protection any woman can have is courage"
+            },
+            {
+                "img":"img/icons/globe.png",
+                "title":"Taking joy in living is a woman’s best cosmetic."
+            }
+        ],
+        "AboutOurCollection":{
+            "img":"img/core-img/about.png",
+            "dreamDotsText":"Creative NFT Collection",
+            "title":"About Our Collection",
+            "textUp":"Womans world is built on the prime web 3 model of inclusiveness. Womans World gives positive web 3 experiences to all holders in hope we all thrive and succeed together.",
+            "textDown":"Womans world Community holders will vote the path taken, based on votes, Womans World Development team then builds it.",
+            "btnText":"Get Started"
+        },
+        "HowItWorks":{
+            "SectionHeading":{
+                "title":"How it Works",
+                "text":"If everyone is moving forward together, then success takes care of itself."
+            },
+            "list":[
+                {
+                    "num":"Step 1",
+                    "img":"img/collection/collection1.png",
+                    "title":"WW Board project proposal submissions",
+                    "text":"WW board to put forth project proposals to the community regarding the platform build of Womans world."
+                },
+                {
+                    "num":"Step 2",
+                    "img":"img/collection/collection2.png",
+                    "title":"WW holders vote.",
+                    "text":"WW holders vote on Womans Worlds proposals. Non weighted votes 1 vote per WW holder."
+                },
+                {
+                    "num":"Step 3",
+                    "img":"img/collection/collection3.png",
+                    "title":"WW Development team to fullfill community vote",
+                    "text":"Womans World is a subsidiary of NFT Developments. NFT Developments is a WEB 3 Development company based out of NZ. NFT Developments will build Womans World platforms."
+                },
+                {
+                    "num":"Step 4",
+                    "img":"img/collection/collection4.png",
+                    "title":"Womans World platforms released",
+                    "text":"On release of womans world platforms, WW board will continue proposals to Womans World community as to continue project growth."
+                }
+            ]
+        },
+        "DiscoverOurNewCollection":{
+            "SectionHeading":{
+                "title":"Discover Our New Collection",
+                "otherTitle":"Vast Collection Of Creative NFTs",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo."
+            },
+            "list":[
+                {
+                    "img":"img/collection/collection1.png",
+                    "title":"Collection #1",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection2.png",
+                    "title":"Collection #2",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection3.png",
+                    "title":"Collection #3",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection4.png",
+                    "title":"Collection #4",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection5.png",
+                    "title":"Collection #5",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection6.png",
+                    "title":"Collection #6",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection7.png",
+                    "title":"Collection #7",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection8.png",
+                    "title":"Collection #8",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection9.png",
+                    "title":"Collection #9",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection10.png",
+                    "title":"Collection #10",
+                    "btnText":"Mint"
+                },
+                {
+                    "img":"img/collection/collection11.png",
+                    "title":"Collection #11",
+                    "btnText":"Mint"
+                }
+            ]
+        },
+        "OurRoadmap":{
+            "SectionHeading":{
+                "title":"WW Roadmap",
+                "text":"Don't think about making women fit the world — think about making the world fit women."
+            },
+            "roadmap":{
+                "title":"This Year",
+                "left":[
+                    {
+                        "ClassItem":"col-sm-12 col-md-6 news-item",
+                        "num":"28",
+                        "day":"Fri",
+                        "title":"Stage 1",
+                        "ClassNewsMediaBx":"news-media",
+                        "ClassNewsMediaLink":"colorbox cboxElement",
+                        "img":"img/collection/collection1.png",
+                        "text":[
+                            "Launch Discord",
+                            "Grow Womans World Collaborations",
+                            "Successful free mint and launch",
+                            "Implement a board of Woman"
+                        ]
+                    },
+                    {
+                        "ClassItem":"col-sm-12 col-md-6 news-item right",
+                        "num":"27",
+                        "day":"Thu",
+                        "title":"Stage 2",
+                        "ClassNewsMediaBx":"news-media gallery",
+                        "ClassNewsMediaLink":"colorbox cboxElement",
+                        "img":"img/collection/collection3.png",
+                        "addCboxElementLink":true,
+                        "text":[
+                            "Release 5k image fetch. Made available to Womans world Diamond holders",
+                            "Release Diamond hand function",
+                            "Release Diamond hand NFT flexibility"
+                        ]
+                    }
+                ],
+                "right":[
+                    {
+                        "ClassItem":"col-sm-12 col-md-6 news-item",
+                        "num":"26",
+                        "day":"Wen",
+                        "title":"Stage 3",
+                        "ClassNewsMediaBx":"news-media video",
+                        "ClassNewsMediaLink":"colorbox-video cboxElement",
+                        "img":"img/collection/collection2.png",
+                        "text":[
+                            "Plan the depth of the Womans World platform",
+                            "Put a vote to the community regarding such plans",
+                            "Start the Design and build of womans worlds platform based on community vote"
+                        ]
+                    },
+                    {
+                        "ClassItem":"col-sm-12 col-md-6 news-item right",
+                        "num":"25",
+                        "day":"Tue",
+                        "title":"Stage 4",
+                        "ClassNewsMediaBx":"news-media gallery",
+                        "ClassNewsMediaLink":"colorbox cboxElement",
+                        "img":"img/collection/collection4.png",
+                        "addCboxElementLink":true,
+                        "text":[
+                            "Release Womans World Beta Platform for testing",
+                            "Implement Diamond hand benefits based on holding time",
+                            "Strengthen and add benefits to Womans World holders"
+                        ]
+                    }
+                ]
+            }
+        },
+        "FAQ":{
+            "SectionHeading":{
+                "title":"Woman’s World FAQ’s",
+                "otherTitle":"What are you doing for others?",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo."
+            },
+            "listQues":[
+                {
+                    "title":"What is Woman’s World Supply?",
+                    "text":"Supply is 2222 “Angels Number”.",
+                    "ID":"Q1"
+                },
+                {
+                    "title":"What Blockchain is Woman’s World NFT?",
+                    "text":"Ethereum Blockchain.",
+                    "ID":"Q2"
+                },
+                {
+                    "title":"Where can I buy a Woman’s World NFT?",
+                    "text":"Opensea.",
+                    "ID":"Q3"
+                },
+                {
+                    "title":"What is Woman’s world mint price?",
+                    "text":[
+                        "Whitelisted wallets get 2 x free mints and pay 0.005 ETH per extra NFT.",
+                        "Max 5 mints per wallet.",
+                        "Public mint get 1 x free mint per wallet and pay 0.007 ETH per extra NFT.",
+                        "3 max per wallet."
+                    ],
+                    "ID":"Q4"
+                },
+                {
+                    "title":"How to get whitelisted?",
+                    "text":"Follow Woman’s World twitter account and watch for giveaways: https://twitter.com/wwnft_ ",
+                    "ID":"Q5"
+                },
+                {
+                    "title":"What is Woman’s World?",
+                    "text":"Woman’s World is an all-woman 1/1 collection with traited metadata. Woman’s World NFT is based on the Ethereum blockchain, Woman’s World is a community focused project looking to listen and implement value projects based on community say. Women’s world is a subsidiary of NFT Developments.",
+                    "ID":"Q6"
+                },
+                {
+                    "title":"What are the Benefits of Holding woman’s World NFTs?",
+                    "text":"Holders of Woman’s World NFTs are part of an active community in which each Woman’s World holder will become an integral part of the Woman’s World Vision. Long term holders will benefit from 5k image fetch, Total NFT ownership with fun functions to enable NFT Flexibility. Woman’s world holders to be Auto WL into future NFT Development projects.",
+                    "ID":"Q7"
+                },
+                {
+                    "title":"Who are the team behind Woman’s World NFT?",
+                    "text":"Woman’s World is a subsidiary of NFT Developments, the NFT Developments team are the builders behind woman’s World, the artists behind the Project are: Ruebin (NFT Developments CEO ), his wife Catherine and three daughters (Cara 14 years old, Milah 9 years old, Ruby 7 years old).",
+                    "ID":"Q8"
+                },
+                {
+                    "title":"What type of utility is offered by buying a Woman’s world NFT?",
+                    "text":[
+                        "Auto WL into all future NFT Development projects.",
+                        "5k image fetch available to diamond hand holders.",
+                        "Be actively apart of the decisions and building of Woman’s World platforms.",
+                        "Diamond Hand holders will have NFT Flexibility “To be announced”.",
+                        "NFT Developments team have the options to build NFT play to earn games/ staking platforms with new tokenomics attached, in house NFT platforms that provide holder benefits. All of which will be decided on by the Woman’s World community."
+                    ],
+                    "ID":"Q9"
+                }
+            ]
+        },
+        "TeamArea":{
+            "SectionHeading":{
+                "title":"Woman’s World Team",
+                "otherTitle":"Alone we can do so little but together we can do so muc",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo."
+            },
+            "listQues":[
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/3.png",
+                    "name":"Ruebin Reti",
+                    "title":"Company CEO"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/1.png",
+                    "name":"Alyosha Agapov",
+                    "title":"Senior Developer"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/2.png",
+                    "name":"Catherine Reti",
+                    "title":"WW Board Member & Artist"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/4.png",
+                    "name":"Remo888",
+                    "title":"WW Board Member"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/5.png",
+                    "name":"Dina",
+                    "title":"WW Board Member"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/6.png",
+                    "name":"Ghostburger",
+                    "title":"WW Board Member"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/7.png",
+                    "name":"Cara Reti (14)",
+                    "title":"Artist"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/8.png",
+                    "name":"Milah Reti (9)",
+                    "title":"Artist"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/9.png",
+                    "name":"Ruby Reti (7)",
+                    "title":"Artist"
+                },
+                {
+                    "icons":[
+                        "fa fa-facebook",
+                        "fa fa-twitter",
+                        "fa fa-google",
+                        "fa fa-instagram"
+                    ],
+                    "img":"img/team-img/10.png",
+                    "name":"Zarli",
+                    "title":"WW Moderator"
+                }
+            ]
+        },
+        "Subscribe":{
+            "title":"Don’t miss Woman’s World updates follow our Twitter page and keep up to date",
+            "text":"Work hard at being the best version of yourself.",
+            "btnText":"Subscribe",
+            "img":"img/core-img/ava.png"
+        },
+        "Contact":{
+            "SectionHeading":{
+                "title":"Contact With Us",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo."
+            },
+            "ContactContent":[
+                {
+                    "nameInput":"name",
+                    "title":"Name",
+                    "lastItem":true
+                },
+                {
+                    "nameInput":"email",
+                    "title":"Email",
+                    "lastItem":true
+                },
+                {
+                    "nameInput":"subject",
+                    "title":"Subject",
+                    "lastItem":false
+                }
+            ],
+            "textareaLabel":"Message",
+            "dreamBtn":"Send Message"
+        }
+    }
+]
